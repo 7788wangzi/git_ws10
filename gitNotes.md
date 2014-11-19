@@ -11,3 +11,12 @@ There are three main states in git, they are ***modified***, ***staged***, and *
 + committed means that the data is safely stored in your local database.
 
 Git has a set of command-line, with git command-lines, user can track files, make branch in local repository, and also can push the local data to remote repository on the server.
+
+###Show something cool, supported by Github
+
+:notes:
+
+:pray:  
+:v:  
+:thumbsup:  
+:sweat_drops:  
