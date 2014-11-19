@@ -14,10 +14,12 @@ Git has a set of command-line, with git command-lines, user can track files, mak
 
 for git command lines, go to [Git Command line!](https://github.com/7788wangzi/git_ws10/blob/master/gitCmdline.txt)
 
-###Show something cool, supported by Github
+###Show something cool([EMOJI](http://www.emoji-cheat-sheet.com/)), supported by Github
 
-:notes:
+:notes:  
 :pray:  
 :v:  
 :thumbsup:  
+:dancer:
 :sweat_drops:  
+:cn:  
