@@ -20,6 +20,12 @@ for git command lines, go to [Git Command line!](https://github.com/7788wangzi/g
 :pray:  
 :v:  
 :thumbsup:  
-:dancer:
+:dancer:  
 :sweat_drops:  
 :cn:  
+
+###Resources
+[1] Step by step setup git server by
+[CopSSH+msysGit](http://www.codeproject.com/Articles/296398/Step-by-Step-Setup-Git-Server-on-Windows-with-CopS)  
+[2] Learn Git from scratch
+[Jump Start](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
