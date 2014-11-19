@@ -12,12 +12,11 @@ There are three main states in git, they are ***modified***, ***staged***, and *
 
 Git has a set of command-line, with git command-lines, user can track files, make branch in local repository, and also can push the local data to remote repository on the server.
 
-for git command lines, go to [Git Command line!](https://github.com/7788wangzi/git_ws10/blob/master/ReadMe.txt)
+for git command lines, go to [Git Command line!](https://github.com/7788wangzi/git_ws10/blob/master/gitCmdline.txt)
 
 ###Show something cool, supported by Github
 
 :notes:
-
 :pray:  
 :v:  
 :thumbsup:  
