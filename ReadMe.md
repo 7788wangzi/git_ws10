@@ -12,7 +12,7 @@ There are three main states in git, they are ***modified***, ***staged***, and *
 
 Git has a set of command-line, with git command-lines, user can track files, make branch in local repository, and also can push the local data to remote repository on the server.
 
-for git command lines, go to [Git Command line!](https://github.com/7788wangzi/git_ws10/blob/master/gitCmdline.txt)
+for git command lines, go to [Git Command line!](https://github.com/7788wangzi/git_ws10/blob/master/gitCmdline.md)
 
 for how git resolves push conflicts, go to [Push Reject](https://github.com/7788wangzi/git_ws10/blob/master/PushReject.md)
 

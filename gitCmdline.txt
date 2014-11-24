@@ -1,4 +1,4 @@
-﻿centralized version control
+centralized version control
 distributed version control - git
 
 git:
@@ -97,3 +97,6 @@ git branch -b 1118 origin/1118
 
 -merge a branch to current branch
 git merge 1118
+
+
+Note: git status only check the diff of his local version with the last push version of his own, it doesn't identify the changes pushed by other people.
