@@ -17,7 +17,7 @@ git three main states: ***committed, modified, staged***
 **modified** means that you have changed the file but have not committed it to your database yet.  
 **staged** means that you have marked a modified file in its current version to go into your next commit snapshot.  
 
-###Git Command lines
+### Git Command lines
 
 #### For create a local repository first
 
@@ -27,7 +27,7 @@ First, you create a folder in your disk, then use `git init` to make this folder
     cd createdlocal
     git init
 
-[]("https://github.com/7788wangzi/git_ws10/img/createdlocal.JPG"  "")
+![]("https://github.com/7788wangzi/git_ws10/blob/master/img/createdlocal.JPG" "create local git repository")
 
 get the commit status  
 
