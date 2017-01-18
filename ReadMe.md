@@ -22,7 +22,8 @@ for git command lines, go to [Git Command line!](https://github.com/7788wangzi/g
 
 for how git resolves push conflicts, go to [Push Reject](https://github.com/7788wangzi/git_ws10/blob/master/PushReject.md)
 
-### Show something cool
+### Show something cool  
+
 ([EMOJI](http://www.emoji-cheat-sheet.com/)), supported by Github
 
 :notes:  
