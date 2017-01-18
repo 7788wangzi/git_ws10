@@ -19,6 +19,16 @@ git three main states: ***committed, modified, staged***
 
 ###Git Command lines
 
+#### For create a local repository first
+
+First, you create a folder in your disk, then use `git init` to make this folder a repository.  
+
+    mkdir createdlocal
+    cd createdlocal
+    git init
+
+[]("https://github.com/7788wangzi/git_ws10/img/createdlocal.JPG"  "")
+
 get the commit status  
 
 	git status
@@ -70,7 +80,7 @@ unmodifying a modified file
 
 	git checkout --<file>
 
-####Work with Remote
+#### Work with Remote repository
 clone a remote repository, cd to the expected path in local, then run:
 
 	git clone https://github.com/7788wangzi/git_ws10.git
