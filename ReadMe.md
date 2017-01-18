@@ -1,4 +1,4 @@
-###Brief introduction to Git
+### Brief introduction to Git
 **Git** is a *distributed* version control system, which is a bit different from the team foundation server(the team foundation server is *centralized* VCS). In git, the **repository** is an important concept, data are stored in repository. Server has a repository on server, client computers have local repository on themselves. Therefore, in git system, each client computer has a full database, you no longer need to connect to server and check-out a file before you want to modify the file. That comes two benefits:  
 
 + Faster, end user would not sync files from server each time. As all files are stored in its client computer, end user modify the tracked file just as modify the local file.  
@@ -22,7 +22,8 @@ for git command lines, go to [Git Command line!](https://github.com/7788wangzi/g
 
 for how git resolves push conflicts, go to [Push Reject](https://github.com/7788wangzi/git_ws10/blob/master/PushReject.md)
 
-###Show something cool([EMOJI](http://www.emoji-cheat-sheet.com/)), supported by Github
+### Show something cool
+([EMOJI](http://www.emoji-cheat-sheet.com/)), supported by Github
 
 :notes:  
 :pray:  
@@ -32,7 +33,7 @@ for how git resolves push conflicts, go to [Push Reject](https://github.com/7788
 :sweat_drops:  
 :cn:  
 
-###Resources
+### Resources
 [1] Step by step setup git server by
 [CopSSH+msysGit](http://www.codeproject.com/Articles/296398/Step-by-Step-Setup-Git-Server-on-Windows-with-CopS)  
 [2] Learn Git from scratch
