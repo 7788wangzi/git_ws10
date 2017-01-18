@@ -1,4 +1,4 @@
-###Two Types of VCS
+# Two Types of VCS
 - centralized version control  
 - distributed version control 
 
@@ -17,9 +17,9 @@ git three main states: ***committed, modified, staged***
 **modified** means that you have changed the file but have not committed it to your database yet.  
 **staged** means that you have marked a modified file in its current version to go into your next commit snapshot.  
 
-### Git Command lines
+## Git Command lines
 
-#### For create a local repository first
+### 1. For create a local repository first
 
 First, you create a folder in your disk, then use `git init` to make this folder a repository.  
 
@@ -29,6 +29,8 @@ First, you create a folder in your disk, then use `git init` to make this folder
 
 
 ![]("https://github.com/7788wangzi/git_ws10/blob/master/img/createdlocal.JPG" "create local git repository")
+
+you can see the empty repository with commandline `ls -ah`.
 
 
 get the commit status  
@@ -82,7 +84,15 @@ unmodifying a modified file
 
 	git checkout --<file>
 
-#### Work with Remote repository
+rollback to a previous version  commit number "e77ab46b2800c8c758a05985dfa428a12773ed14"  
+
+    git reset --hard e77ab46b2800c8c758a05985dfa428a12773ed14
+
+then you will get a message "HEAD is no at 10c4dde XXX"
+
+
+
+### 2. Work with Remote repository
 clone a remote repository, cd to the expected path in local, then run:
 
 	git clone https://github.com/7788wangzi/git_ws10.git
@@ -138,3 +148,19 @@ merge a branch to current branch
 	git merge 1118
 
 
+
+### 3. Issues
+
+if you runinto following issues
+
+> Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+You can use following command to resolve it  
+
+    rm .git/index.lock
+
+Note: Not git `rm .git/index.lock`
