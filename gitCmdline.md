@@ -27,7 +27,9 @@ First, you create a folder in your disk, then use `git init` to make this folder
     cd createdlocal
     git init
 
+
 ![]("https://github.com/7788wangzi/git_ws10/blob/master/img/createdlocal.JPG" "create local git repository")
+
 
 get the commit status  
 
