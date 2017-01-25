@@ -1,4 +1,6 @@
-###Simultaneously Modifying 
+## Git Merge
+
+### Simultaneously Modifying 
 there is a case that the exact same file is modified by two different people from two local repositories simultaneously. there should be conflict when they both want to push their local repositories to remote server, it's the solution how git resolve this:  
 Remote Repository | (empty) file.txt  -v1  
 user1 | file.txt  -v1  
