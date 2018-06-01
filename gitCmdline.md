@@ -184,3 +184,7 @@ Your browser does not support the video tag.
    <source src="//mlxite3.origin.mediaservices.windows.net/6416a2d8-2e91-405c-b099-b2eee25f6e54/01 Video Intro Modern Web and Modern App Requirements.ism/manifest"  type="application/vnd.ms-sstr+xml"/>
    <p class="amp-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video</p>
 </video>
+
+## channel 9
+<p><iframe width="640" height="360" src="https://channel9.msdn.com/Series/DevOps-Fundamentals/Automated-Testing/player" frameborder="0" allowfullscreen=""></iframe></p>
+<p><iframe width="640" height="360" src="https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Integration/player" frameborder="0" allowfullscreen=""></iframe></p>
