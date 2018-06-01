@@ -165,3 +165,8 @@ You can use following command to resolve it
     rm .git/index.lock
 
 Note: Not git `rm .git/index.lock`
+
+<video width="700" height="400" controls>
+<source src="https://wus-streaming-video-rt-microsoft-com.akamaized.net/88cccf51-4d0f-4ba7-9901-91c8ca69de2d/0ffa8dcf-8fd7-4a06-9f5b-bf8115a9_1920x1080_1833.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
