@@ -177,7 +177,7 @@ Your browser does not support the video tag.
 </video> 
 
 ## iframe YT
-<p><iframe width="640" height="360" src="https://youtu.be/LFISKq4hi4c" frameborder="0" allowfullscreen=""></iframe></p>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/LFISKq4hi4c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## WAMS
 <link href="//amp.azure.net/libs/amp/latest/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
