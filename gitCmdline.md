@@ -171,7 +171,7 @@ Note: Not git `rm .git/index.lock`
 Your browser does not support the video tag.
 </video> 
 
-<video width="700" height="400" controls>
-<source src="https://youtu.be/LFISKq4hi4c" type="video/mp4" >
+<video width="700" height="400" controls="controls">
+<source src="https://youtu.be/LFISKq4hi4c&html5=True" type="video/mp4" >
 Your browser does not support the video tag.
 </video> 
