@@ -148,7 +148,12 @@ merge a branch to current branch
 
 	git merge 1118
 
+Overwrite the local branch with the remote branch, when your commit in local branch is ahead of the remote branch, and you don't want to keep the local changes, then you could overwrite the branch with the remote branch
 
+```cmd
+git fetch --all
+git reset --hard origin/digital-literacy
+```
 
 #### 3. Issues
 
