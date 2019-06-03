@@ -155,6 +155,21 @@ git fetch --all
 git reset --hard origin/digital-literacy
 ```
 
+List all branches
+```cmd
+git branch
+```
+
+List all local branches
+```cmd
+git branch -a
+```
+
+List all remote branches
+```cmd
+git branch -r
+```
+
 #### 3. Issues
 
 if you runinto following issues
